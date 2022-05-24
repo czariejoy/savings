@@ -12,6 +12,7 @@ storage.geometry("1285x651")
 storage.title("Student's Savings Tracker")
 storage.iconbitmap("Student's_Savings_Tracker.ico")
 
+#Boss Jc Jamela lang malakas
 
 def endWindow():
 
