@@ -1,5 +1,4 @@
 import tkinter as tk
-#JENELYN LANG SAKALAM
 from tkinter import *
 from PIL import ImageTk, Image
 import os
@@ -13,7 +12,6 @@ storage.geometry("1285x651")
 storage.title("Student's Savings Tracker")
 storage.iconbitmap("Student's_Savings_Tracker.ico")
 
-#Boss Jc Jamela lang malakas
 
 def endWindow():
 
