@@ -1,4 +1,5 @@
 import tkinter as tk
+#jenelyn lang sakalam
 from tkinter import *
 from PIL import ImageTk, Image
 import os
